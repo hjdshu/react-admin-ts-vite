@@ -8,7 +8,7 @@
     "test": "vite --mode test",
     "pro": "vite --mode production",
     "build:test": "tsc && vite build --mode test",
-    "build:pro": "tsc && vite build --mode production"
+    "build:pro": "tsc && vite build --mode production",
     "preview": "vite preview",
     "lint": "eslint ./src"
   },
